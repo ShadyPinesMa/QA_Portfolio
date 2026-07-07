@@ -1,0 +1,4 @@
+first_name,last_name,email,address1,address2,country,city,zip,cc_name,cc_number,exp_date,cvv
+Simone,Simon,ssimon@mail.com,1234 Ocean Ave,,United Kingdom,Cardiff,12345,Simone Simon,4154555566667777,09/27,666
+Edward,Elric,eedward@mail.com,12 Main St,,United Kingdom,Swansea,54321,Edward Elric,4111111111111111,07/31,222
+Dolly,Parton,dparton@mail.com,4321 Music Way,,United Kingdom,Bristol,65432,Dolly Parton, 6543123498746542,02/31,123
