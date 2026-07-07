@@ -14,6 +14,8 @@ Skilled in test planning, test case design, defect reporting, UI automation usin
 - Selenium WebDriver
 - Java
 - TestNG
+- Python
+- PyTest
 - Postman
 - Test Planning
 - Defect Tracking
@@ -37,8 +39,11 @@ Skilled in test planning, test case design, defect reporting, UI automation usin
 
 ### Python Selenium Automation Project - Sweetshop.co
 
-- Port of an existing test from my Java Selenium/TestNG framework
-- Will be fleshed out more in the coming weeks, including a shift to POM
+- Port of Java Selenium Automation Project to Python
+- Built automation framework using Python and Selenium
+- Automated core user workflows
+- Exectued automated UI tests using PyTest
+- Generated test execution reports and test coverage reports
 
 ### API Testing Project – Swagger Petstore
 
@@ -56,6 +61,8 @@ Skilled in test planning, test case design, defect reporting, UI automation usin
 - Maven
 - Postman
 - GitHub
+- Python
+- PyTest
 - Google Sheets
 - Microsoft Excel
 
