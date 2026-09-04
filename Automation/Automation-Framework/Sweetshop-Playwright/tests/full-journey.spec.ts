@@ -16,7 +16,9 @@ test('add products to basket, verify item count on basket page, complete checkou
   await expect(productPage.productHeader).toBeVisible()
 
   await productPage.addProductToBasket('Wham Bar')
+  await expect(basketPage.basketLink).toContainText('1 Basket')
   await productPage.addProductToBasket('Strawberry Bon Bons')
+  await expect(basketPage.basketLink).toContainText('2 Basket')
 
   await basketPage.open()
   expect(await basketPage.getBasketCount()).toBe(2)

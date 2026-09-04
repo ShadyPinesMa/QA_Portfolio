@@ -18,7 +18,6 @@ export class ProductPage extends BasePage {
   }
 
   async addProductToBasket(productName: string) {
-    const heading = this.productHeading(productName)
     await this.addToBasketButtonFor(productName).click()
   }
 }

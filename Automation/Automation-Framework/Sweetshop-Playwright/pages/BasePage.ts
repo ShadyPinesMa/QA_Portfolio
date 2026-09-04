@@ -37,6 +37,7 @@ export class BasePage {
 
   async getBasketCount(): Promise<number> {
     const text = await this.basketLink.textContent()
+    console.log('Basket text:', text)
     const match = text?.match(/(\d+)\s*Basket/i)
     return match ? Number(match[1]) : 0
   }
