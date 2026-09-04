@@ -66,6 +66,8 @@ Skilled in test planning, test case design, defect reporting, UI automation usin
 - Selenium WebDriver
 - Java
 - TestNG
+- Playwright
+- Typescript
 - Maven
 - Postman
 - GitHub
