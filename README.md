@@ -39,7 +39,7 @@ Skilled in test planning, test case design, defect reporting, UI automation usin
 - Executed automated UI tests using TestNG
 - Generated test execution reports
 
-## Playwright Typescript Automation Project - Sweetshop.co
+### Playwright Typescript Automation Project - Sweetshop.co
 
 - Port of Java Selenium Automation Project to Playwright/Typescript
 - Automated checkout validation and login
