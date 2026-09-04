@@ -12,4 +12,13 @@ export class ProductPage extends BasePage {
   async open() {
     await this.goto('/sweets')
   }
+
+  protected addToBasketButtonFor(productName: string): Locator {
+    return this.page.locator(`[data-name="${productName}"]`)
+  }
+
+  async addProductToBasket(productName: string) {
+    const heading = this.productHeading(productName)
+    await this.addToBasketButtonFor(productName).click()
+  }
 }

@@ -57,10 +57,6 @@ export class BasePage {
     )
   }
 
-  async addProductToBasket(productName: string) {
-    await this.addToBasketButtonFor(productName).click()
-  }
-
   async getPriceText(productName: string): Promise<string | null> {
     return this.priceFor(productName).textContent()
   }
