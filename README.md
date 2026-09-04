@@ -3,7 +3,7 @@
 ## About Me
 
 Aspiring QA Engineer with experience in manual, automated, and API software testing.
-Skilled in test planning, test case design, defect reporting, UI automation using Selenium WebDriver and TestNG, and API testing using Postman.
+Skilled in test planning, test case design, defect reporting, UI automation using Selenium WebDriver (TestNG) and Playwright (Typescript), and API testing using Postman.
 
 ## Skills
 
@@ -13,6 +13,8 @@ Skilled in test planning, test case design, defect reporting, UI automation usin
 - Regression Testing
 - Selenium WebDriver
 - Java
+- Playwright
+- Typescript
 - TestNG
 - Python
 - PyTest
@@ -36,6 +38,12 @@ Skilled in test planning, test case design, defect reporting, UI automation usin
 - Automated core user workflows
 - Executed automated UI tests using TestNG
 - Generated test execution reports
+
+## Playwright Typescript Automation Project - Sweetshop.co
+
+- Port of Java Selenium Automation Project to Playwright/Typescript
+- Automated checkout validation and login
+- Automated and a full user flow of browsing, adding items, entering checkout info, and completing checkout
 
 ### Python Selenium Automation Project - Sweetshop.co
 
