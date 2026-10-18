@@ -35,6 +35,7 @@ Skilled in test planning, test case design, defect reporting, UI automation usin
 ### Java Selenium Automation Project – Sweetshop.co
 
 - Built automation framework using Java and Selenium
+- Used Page Object Model to structure framework
 - Automated core user workflows
 - Executed automated UI tests using TestNG
 - Generated test execution reports
@@ -42,6 +43,7 @@ Skilled in test planning, test case design, defect reporting, UI automation usin
 ### Playwright Typescript Automation Project - Sweetshop.co
 
 - Port of Java Selenium Automation Project to Playwright/Typescript
+- Used Page Object Model to structure framework
 - Automated checkout validation and login
 - Automated and a full user flow of browsing, adding items, entering checkout info, and completing checkout
 
@@ -49,6 +51,7 @@ Skilled in test planning, test case design, defect reporting, UI automation usin
 
 - Port of Java Selenium Automation Project to Python
 - Built automation framework using Python and Selenium
+- Used Page Object Model to structure framework
 - Automated core user workflows
 - Exectued automated UI tests using PyTest
 - Generated test execution reports and test coverage reports
