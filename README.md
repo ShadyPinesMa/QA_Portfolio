@@ -2,7 +2,7 @@
 
 ## About Me
 
-Aspiring QA Engineer with experience in manual, automated, and API software testing.
+QA Engineer with experience in manual testing, test automation, and API testing.
 Skilled in test planning, test case design, defect reporting, UI automation using Selenium WebDriver (TestNG) and Playwright (Typescript), and API testing using Postman.
 
 ## Skills
