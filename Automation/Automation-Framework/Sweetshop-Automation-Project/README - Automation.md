@@ -46,6 +46,7 @@ The framework automates core user workflows and validates functionality through 
 ## **Skills Demonstrated**
 
 - Test automation
+- Page Object Model
 - Selenium WebDriver
 - Java programming
 - Framework organization
